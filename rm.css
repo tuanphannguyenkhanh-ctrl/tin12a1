@@ -1,4 +1,16 @@
+h1{
+  color:blue
+    }
 .tieude{
   color:red;
   font-family:Arial;
+  top-margin: 10pt;
+  font-size: 18pt;
+  font-weight:bold;
+}
+.noidung{
+  color:black;
+  font-style:normal;
+  top-margin: 5pt;
+  font-size: 13pt;  
 }
