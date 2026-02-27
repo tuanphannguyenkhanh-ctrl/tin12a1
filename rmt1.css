@@ -4,25 +4,25 @@
   height: 100vh;
 }
 .header{
-  flex: 15%
+  flex: 15%;
   background-color: red;
 }
 .menu{
-  flex: 5%
+  flex: 5%;
    background-color: lightgray;
 }
 .content{
-   flex: 65%
+   flex: 65%;
    background-color: white;
 }
 .content iframe{
   flex: 1;
   border:none;
-  width:100%
-  height:100%
+  width:100%;
+  height:100%;
 }
 .footer{
-  flex: 10%
+  flex: 10%;
    background-color: blue;
 }
 .tieude{
